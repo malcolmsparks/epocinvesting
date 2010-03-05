@@ -1,0 +1,503 @@
+29/11/2009,,,,,,,,,,
+,,,,,,,,,,
+,Ticker,,ValComp,MomComp,RevComp,RiskComp,QualComp,GrowthComp,Price,Sector
+EXXON MOBIL CORP,XOM,,55%,16%,10%,23%,99%,3%,74.35,Energy
+MICROSOFT CORP,MSFT,,68%,93%,75%,56%,94%,58%,29.01,Information Technology
+PROCTER & GAMBLE,PG,,66%,69%,27%,13%,92%,40%,61.75,Consumer Staples
+APPLE,AAPL,,96%,94%,92%,66%,55%,96%,199.14,Information Technology
+JOHNSON&JOHNSON,JNJ,,49%,70%,40%,23%,91%,26%,62.1,Health Care
+GENERAL ELECTRIC,GE,,62%,36%,33%,78%,31%,53%,15.47,Industrials
+IBM,IBM,,32%,70%,49%,31%,97%,40%,124.26,Information Technology
+JPMORGAN CHASE,JPM,,33%,37%,96%,95%,13%,35%,40.82,Financials
+AT&T INC,T,,11%,17%,47%,50%,45%,22%,26.46,Telecommunication Services
+CHEVRON CORP,CVX,,27%,48%,53%,75%,93%,17%,77.35,Energy
+PFIZER INC,PFE,,12%,63%,76%,39%,23%,6%,18.01,Health Care
+GOOGLE INC-CL A,GOOG,,97%,97%,73%,40%,55%,98%,571.58,Information Technology
+BANK OF AMERICA,BAC,,68%,67%,1%,1%,12%,41%,15.34,Financials
+CISCO SYSTEMS,CSCO,,72%,69%,85%,58%,91%,66%,23.09,Information Technology
+COCA-COLA CO,KO,,91%,68%,37%,22%,85%,34%,56.76,Consumer Staples
+WELLS FARGO & CO,WFC,,27%,26%,93%,94%,20%,66%,27,Financials
+HEWLETT-PACKARD,HPQ,,19%,85%,60%,39%,75%,72%,48.7,Information Technology
+WAL-MART STORES,WMT,,38%,20%,37%,43%,86%,53%,54.25,Consumer Staples
+MERCK & CO,MRK,,69%,92%,63%,15%,87%,19%,35.75,Health Care
+INTEL CORP,INTC,,62%,42%,88%,65%,71%,61%,18.9,Information Technology
+PEPSICO INC,PEP,,75%,73%,50%,34%,87%,49%,62.07,Consumer Staples
+PHILIP MORRIS,PM,,67%,52%,55%,48%,99%,54%,49.12,Consumer Staples
+VERIZON COMMUNIC,VZ,,12%,18%,27%,17%,58%,12%,31.34,Telecommunication Services
+ORACLE CORP,ORCL,,59%,50%,18%,10%,96%,78%,22.15,Information Technology
+GOLDMAN SACHS GP,GS,,7%,34%,95%,96%,33%,38%,164.5,Financials
+ABBOTT LABS,ABT,,60%,43%,45%,28%,77%,59%,53.42,Health Care
+CONOCOPHILLIPS,COP,,23%,31%,60%,66%,69%,1%,50.98,Energy
+SCHLUMBERGER LTD,SLB,,91%,30%,53%,36%,81%,5%,62.36,Energy
+QUALCOMM INC,QCOM,,83%,28%,4%,3%,46%,95%,44.76,Information Technology
+MCDONALDS CORP,MCD,,70%,45%,53%,49%,90%,79%,63.05,Consumer Discretionary
+OCCIDENTAL PETE,OXY,,68%,64%,54%,75%,80%,17%,79.9,Energy
+UNITED TECH CORP,UTX,,45%,76%,39%,29%,86%,56%,66.46,Industrials
+AMGEN INC,AMGN,,32%,22%,51%,46%,83%,38%,55.98,Health Care
+UNITED PARCEL-B,UPS,,76%,48%,48%,48%,75%,37%,56.69,Consumer Discretionary
+WALT DISNEY CO,DIS,,48%,84%,51%,40%,63%,40%,29.8,Consumer Discretionary
+CITIGROUP INC,C,,81%,13%,,98%,2%,4%,3.98,Financials
+3M CO,MMM,,64%,88%,83%,70%,61%,53%,76.38,Industrials
+BRISTOL-MYER SQB,BMY,,46%,87%,18%,20%,46%,7%,24.98,Health Care
+AMERICAN EXPRESS,AXP,,89%,99%,97%,93%,56%,77%,40.45,Financials
+MEDTRONIC INC,MDT,,56%,84%,52%,35%,83%,64%,42.26,Health Care
+HOME DEPOT INC,HD,,40%,66%,50%,54%,76%,54%,27.11,Consumer Discretionary
+CVS CAREMARK COR,CVS,,21%,13%,19%,28%,63%,83%,30.74,Consumer Staples
+US BANCORP,USB,,61%,32%,77%,82%,36%,29%,22.76,Financials
+AMAZON.COM INC,AMZN,,98%,99%,86%,52%,68%,99%,130,Consumer Discretionary
+MONSANTO CO,MON,,88%,8%,2%,5%,62%,82%,78.62,Materials
+COMCAST CORP-A,CMCSA,,10%,15%,64%,80%,40%,62%,14.64,Consumer Discretionary
+MORGAN STANLEY,MS,,48%,23%,5%,56%,17%,36%,30.08,Financials
+GILEAD SCIENCES,GILD,,80%,13%,76%,61%,94%,91%,46,Health Care
+COLGATE-PALMOLIV,CL,,82%,68%,17%,31%,97%,48%,82.65,Consumer Staples
+ALTRIA GROUP INC,MO,,41%,47%,23%,34%,76%,28%,18.91,Consumer Staples
+KRAFT FOODS INC,KFT,,31%,14%,34%,55%,42%,34%,26.47,Consumer Staples
+WALGREEN CO,WAG,,42%,79%,63%,51%,66%,87%,38.53,Consumer Staples
+BOEING CO,BA,,77%,52%,9%,13%,89%,29%,51,Industrials
+ELI LILLY & CO,LLY,,16%,20%,64%,50%,28%,6%,36.58,Health Care
+TIME WARNER INC,TWX,,11%,74%,34%,46%,45%,61%,30.31,Consumer Discretionary
+CATERPILLAR INC,CAT,,80%,89%,81%,97%,62%,45%,56.96,Industrials
+TARGET CORP,TGT,,29%,53%,63%,76%,70%,88%,46.71,Consumer Discretionary
+FREEPORT-MCMORAN,FCX,,72%,98%,98%,87%,56%,77%,83.2,Materials
+UNITEDHEALTH GRP,UNH,,4%,57%,42%,37%,93%,38%,28.84,Health Care
+EMC CORP/MASS,EMC,,63%,71%,73%,51%,44%,84%,16.35,Information Technology
+BAXTER INTL INC,BAX,,64%,16%,35%,21%,94%,63%,53.85,Health Care
+APACHE CORP,APA,,49%,39%,80%,62%,58%,41%,93.28,Energy
+LOWE'S COS INC,LOW,,33%,40%,41%,33%,54%,68%,21.45,Consumer Discretionary
+DOW CHEMICAL,DOW,,78%,92%,80%,96%,30%,28%,27.2,Materials
+UNION PAC CORP,UNP,,60%,72%,31%,31%,46%,72%,62.73,Consumer Discretionary
+BANK NY MELLON,BK,,6%,9%,67%,70%,26%,57%,26.01,Financials
+DU PONT (EI),DD,,71%,77%,71%,91%,76%,44%,34,Materials
+TEXAS INSTRUMENT,TXN,,68%,83%,92%,70%,90%,57%,24.69,Information Technology
+EXELON CORP,EXC,,18%,8%,9%,16%,67%,11%,47.38,Utilities
+EMERSON ELEC CO,EMR,,54%,80%,82%,68%,93%,72%,40.97,Industrials
+ANADARKO PETROLE,APC,,95%,49%,96%,92%,48%,4%,60.39,Energy
+DEVON ENERGY CO,DVN,,64%,28%,58%,79%,34%,20%,66.2,Energy
+TRAVELERS COS IN,TRV,,2%,64%,83%,86%,72%,17%,51.55,Financials
+DIRECTV-A,DTV,,47%,95%,29%,18%,68%,89%,30.96,Consumer Discretionary
+MEDCO HEALTH SOL,MHS,,56%,96%,44%,25%,67%,94%,61.7,Health Care
+HONEYWELL INTL,HON,,26%,50%,66%,68%,39%,49%,37.93,Industrials
+FORD MOTOR CO,F,,71%,96%,64%,100%,1%,52%,8.5,Consumer Discretionary
+METLIFE INC,MET,,5%,21%,54%,53%,21%,58%,33.11,Financials
+KIMBERLY-CLARK,KMB,,46%,88%,77%,77%,76%,45%,64.78,Consumer Staples
+NEWS CORP-A,NWSA,,33%,43%,62%,71%,30%,43%,11.42,Consumer Discretionary
+HALLIBURTON CO,HAL,,62%,62%,79%,65%,59%,47%,28.48,Energy
+NEWMONT MINING,NEM,,87%,54%,81%,68%,5%,53%,52.44,Materials
+COSTCO WHOLESALE,COST,,59%,80%,70%,59%,32%,75%,59.49,Consumer Staples
+EBAY INC,EBAY,,57%,67%,51%,28%,23%,73%,22.9,Information Technology
+PNC FINANCIAL SE,PNC,,43%,75%,99%,98%,19%,36%,54.88,Financials
+CORNING INC,GLW,,78%,56%,75%,55%,45%,77%,16.26,Information Technology
+WELLPOINT INC,WLP,,3%,68%,55%,40%,71%,76%,53.26,Health Care
+GENERAL DYNAMICS,GD,,16%,72%,31%,21%,80%,30%,66.52,Industrials
+FEDEX CORP,FDX,,51%,96%,73%,76%,33%,67%,81.13,Consumer Discretionary
+BURLINGTON NORTH,BNI,,69%,96%,14%,22%,64%,62%,98.15,Consumer Discretionary
+NIKE INC -CL B,NKE,,65%,66%,43%,36%,68%,65%,64,Consumer Discretionary
+CELGENE CORP,CELG,,99%,65%,50%,15%,26%,98%,53.93,Health Care
+SOUTHERN CO,SO,,58%,17%,16%,37%,26%,17%,31.5,Utilities
+PRAXAIR INC,PX,,90%,46%,50%,45%,83%,36%,80.83,Materials
+LOCKHEED MARTIN,LMT,,9%,12%,43%,47%,98%,33%,76.27,Industrials
+DELL INC,DELL,,14%,35%,25%,4%,78%,43%,14.03,Information Technology
+XTO ENERGY INC,XTO,,35%,19%,43%,44%,70%,18%,41.32,Energy
+EXPRESS SCRIPT,ESRX,,78%,88%,32%,9%,57%,96%,85.08,Health Care
+MARATHON OIL,MRO,,21%,27%,18%,17%,74%,21%,32.17,Energy
+PRUDENTL FINL,PRU,,4%,50%,87%,89%,13%,61%,47.84,Financials
+MASTERCARD INC-A,MA,,94%,90%,62%,41%,53%,97%,234.62,Information Technology
+DEERE & CO,DE,,89%,73%,13%,24%,39%,40%,51.9,Industrials
+EOG RESOURCES,EOG,,92%,48%,85%,81%,61%,43%,86.1,Energy
+GENERAL MILLS IN,GIS,,59%,92%,60%,78%,90%,49%,67.57,Consumer Staples
+AUTOMATIC DATA,ADP,,67%,60%,35%,17%,87%,67%,43,Information Technology
+DOMINION RES/VA,D,,43%,47%,20%,48%,27%,20%,36.11,Utilities
+CME GROUP INC,CME,,62%,33%,24%,50%,83%,44%,322.24,Financials
+DUKE ENERGY CORP,DUK,,51%,78%,25%,33%,15%,11%,16.44,Utilities
+FPL GROUP INC,FPL,,33%,7%,13%,32%,29%,32%,51.43,Utilities
+AFLAC INC,AFL,,10%,62%,49%,45%,78%,75%,43.78,Financials
+SIMON PROPERTY,SPG,,98%,72%,3%,25%,16%,29%,70,Financials
+STATE ST CORP,STT,,5%,9%,32%,29%,20%,55%,40,Financials
+ARCHER-DANIELS,ADM,,29%,29%,63%,88%,52%,52%,30.29,Consumer Staples
+RAYTHEON CO,RTN,,9%,63%,41%,21%,73%,49%,51.02,Industrials
+THERMO FISHER,TMO,,50%,80%,47%,22%,55%,54%,46.93,Health Care
+MOTOROLA INC,MOT,,82%,65%,46%,91%,13%,26%,7.96,Information Technology
+ILLINOIS TOOL WO,ITW,,73%,86%,91%,82%,84%,65%,48.05,Industrials
+NORFOLK SOUTHERN,NSC,,59%,91%,24%,33%,63%,54%,50.44,Consumer Discretionary
+ADOBE SYS INC,ADBE,,92%,73%,58%,18%,89%,82%,34.88,Information Technology
+CSX CORP,CSX,,52%,89%,19%,35%,56%,78%,46.55,Consumer Discretionary
+NATL OILWELL VAR,NOV,,8%,33%,75%,52%,51%,25%,43,Energy
+DANAHER CORP,DHR,,70%,56%,59%,42%,42%,55%,70.02,Industrials
+VIACOM INC-B,VIA/B,,31%,83%,77%,88%,69%,29%,29.42,Consumer Discretionary
+JOHNSON CONTROLS,JCI,,67%,87%,79%,86%,13%,61%,26.37,Consumer Discretionary
+ALLERGAN INC,AGN,,90%,81%,54%,19%,65%,81%,57.86,Health Care
+YAHOO! INC,YHOO,,81%,10%,42%,16%,18%,91%,15.01,Information Technology
+BECTON DICKINSON,BDX,,50%,40%,30%,13%,92%,64%,74.15,Health Care
+NORTHROP GRUMMAN,NOC,,5%,63%,60%,69%,53%,37%,54.62,Industrials
+CHUBB CORP,CB,,2%,47%,87%,89%,84%,40%,49.32,Financials
+CAPITAL ONE FINA,COF,,69%,79%,,68%,12%,55%,37.22,Financials
+AIR PRODS & CHEM,APD,,77%,76%,66%,58%,38%,47%,81.03,Materials
+SCHWAB (CHARLES),SCHW,,92%,21%,6%,4%,69%,85%,17.71,Financials
+HESS CORP,HES,,42%,10%,82%,86%,64%,4%,56.9,Energy
+BB&T CORP,BBT,,42%,18%,3%,2%,16%,26%,24.42,Financials
+STAPLES INC,SPLS,,41%,69%,30%,25%,36%,85%,22.68,Consumer Discretionary
+MCKESSON CORP,MCK,,13%,94%,70%,56%,59%,83%,62.34,Health Care
+KOHLS CORP,KSS,,34%,55%,80%,71%,86%,82%,53.96,Consumer Discretionary
+FRANKLIN RES INC,BEN,,74%,91%,94%,72%,82%,45%,109.74,Financials
+YUM! BRANDS INC,YUM,,66%,36%,33%,45%,22%,65%,34.94,Consumer Discretionary
+APPLIED MATERIAL,AMAT,,88%,21%,87%,74%,37%,43%,12.09,Information Technology
+TJX COS INC,TJX,,29%,78%,83%,67%,64%,74%,38.15,Consumer Discretionary
+WASTE MANAGEMENT,WM,,45%,67%,24%,34%,66%,54%,32.75,Industrials
+AMERICAN TOWER-A,AMT,,99%,85%,33%,34%,8%,97%,40.05,Telecommunication Services
+SYSCO CORP,SYY,,31%,43%,42%,53%,95%,55%,26.66,Consumer Staples
+STARBUCKS CORP,SBUX,,73%,96%,84%,71%,50%,92%,21.05,Consumer Discretionary
+PUB SERV ENTERP,PEG,,25%,14%,38%,26%,54%,10%,30.81,Utilities
+PG&E CORP,PCG,,37%,49%,15%,35%,49%,25%,42.06,Utilities
+ALLSTATE CORP,ALL,,1%,25%,58%,61%,47%,19%,28.2,Financials
+CHESAPEAKE ENERG,CHK,,36%,19%,68%,77%,33%,20%,23.58,Energy
+ENTERGY CORP,ETR,,39%,18%,12%,31%,55%,20%,78.37,Utilities
+TIME WARNER,TWC,,12%,90%,39%,54%,2%,37%,41.87,Consumer Discretionary
+AMERICAN ELECTRI,AEP,,36%,36%,47%,60%,12%,11%,31.57,Utilities
+SOUTHWESTRN ENGY,SWN,,98%,20%,37%,14%,55%,100%,43,Energy
+AVON PRODUCTS,AVP,,84%,81%,65%,57%,88%,22%,34.33,Consumer Staples
+KROGER CO,KR,,16%,8%,9%,15%,74%,48%,22.74,Consumer Staples
+PRECISION CASTPT,PCP,,56%,89%,7%,5%,46%,85%,103.98,Industrials
+BEST BUY CO INC,BBY,,28%,75%,61%,49%,58%,77%,42.43,Consumer Discretionary
+SYMANTEC CORP,SYMC,,27%,58%,52%,29%,43%,37%,17.6,Information Technology
+CARNIVAL CORP,CCL,,61%,58%,72%,81%,50%,79%,31.52,Consumer Discretionary
+STRYKER CORP,SYK,,58%,90%,41%,10%,85%,72%,49.11,Health Care
+PACCAR INC,PCAR,,97%,56%,11%,26%,78%,61%,36.96,Industrials
+GENZYME CORP,GENZ,,68%,2%,4%,4%,47%,98%,50.58,Health Care
+KELLOGG CO,K,,71%,77%,32%,39%,57%,46%,52.94,Consumer Staples
+BIOGEN IDEC INC,BIIB,,28%,6%,32%,25%,42%,30%,46.44,Health Care
+JUNIPER NETWORKS,JNPR,,94%,28%,79%,48%,37%,94%,25.27,Information Technology
+HJ HEINZ CO,HNZ,,52%,54%,58%,64%,84%,28%,42.21,Consumer Staples
+NUCOR CORP,NUE,,67%,9%,34%,27%,82%,17%,41.13,Materials
+LORILLARD INC,LO,,49%,52%,14%,7%,100%,21%,78.35,Consumer Staples
+WESTERN UNION,WU,,53%,28%,41%,21%,97%,75%,18.34,Information Technology
+SEMPRA ENERGY,SRE,,51%,59%,17%,60%,67%,23%,52.61,Utilities
+COGNIZANT TECH-A,CTSH,,96%,95%,78%,44%,61%,94%,43.5,Information Technology
+LOEWS CORP,L,,2%,79%,77%,83%,71%,17%,34.91,Financials
+BOSTON SCIENTIFC,BSX,,44%,5%,7%,16%,19%,89%,8.31,Health Care
+FIRSTENERGY CORP,FE,,33%,17%,20%,32%,50%,17%,42.2,Utilities
+AETNA INC,AET,,3%,21%,14%,6%,90%,72%,28.83,Health Care
+ST JUDE MEDICAL,STJ,,65%,11%,6%,11%,77%,81%,36.04,Health Care
+BAKER HUGHES INC,BHI,,47%,16%,27%,6%,66%,35%,40.05,Energy
+BROADCOM CORP-A,BRCM,,95%,44%,89%,59%,59%,95%,28.52,Information Technology
+ALCOA INC,AA,,95%,58%,82%,99%,10%,40%,12.5,Materials
+ZIMMER HLDGS,ZMH,,53%,93%,49%,20%,81%,43%,57.79,Health Care
+SPECTRA ENERG,SE,,71%,54%,30%,75%,33%,28%,19.23,Energy
+T ROWE PRICE GRP,TROW,,96%,38%,83%,62%,87%,61%,47.64,Financials
+PEABODY ENERGY,BTU,,65%,75%,91%,85%,82%,61%,43.36,Energy
+MARSH & MCLENNAN,MMC,,30%,28%,87%,81%,24%,72%,22.27,Financials
+WILLIAMS COS INC,WMB,,56%,70%,45%,82%,24%,75%,19.82,Energy
+CONS EDISON INC,ED,,47%,74%,31%,63%,28%,12%,42.25,Utilities
+NORTHERN TRUST,NTRS,,36%,3%,4%,3%,28%,62%,47.01,Financials
+CARDINAL HEALTH,CAH,,12%,82%,61%,53%,38%,72%,31.86,Health Care
+PPL CORPORATION,PPL,,56%,10%,18%,30%,57%,25%,30.29,Utilities
+PROGRESSIVE CORP,PGR,,13%,37%,52%,51%,69%,27%,16.63,Financials
+NOBLE ENERGY INC,NBL,,76%,25%,82%,83%,96%,12%,64.05,Energy
+OMNICOM GROUP,OMC,,27%,51%,21%,19%,72%,40%,35.73,Consumer Discretionary
+SPRINT NEXTEL CO,S,,20%,4%,36%,81%,13%,3%,3.72,Telecommunication Services
+COACH INC,COH,,65%,85%,86%,64%,98%,87%,34.77,Consumer Discretionary
+SUNTRUST BANKS,STI,,84%,53%,,,8%,27%,21.95,Financials
+INTL PAPER CO,IP,,19%,98%,81%,90%,14%,20%,24.64,Materials
+EDISON INTL,EIX,,25%,50%,19%,38%,58%,21%,33.61,Utilities
+MURPHY OIL CORP,MUR,,29%,15%,46%,7%,74%,90%,56.4,Energy
+PROGRESS ENERGY,PGN,,43%,30%,30%,47%,11%,12%,38.73,Utilities
+EATON CORP,ETN,,56%,92%,88%,92%,60%,48%,63.32,Industrials
+CENTURYTEL INC,CTL,,25%,79%,68%,84%,10%,6%,35.8,Telecommunication Services
+AON CORP,AOC,,15%,11%,8%,11%,32%,45%,38.4,Financials
+ECOLAB INC,ECL,,77%,45%,30%,28%,93%,72%,44.13,Materials
+GAP INC/THE,GPS,,20%,65%,85%,66%,80%,57%,21.81,Consumer Discretionary
+INTUITIVE SURGIC,ISRG,,100%,100%,83%,54%,78%,98%,274.34,Health Care
+PUBLIC STORAGE,PSA,,87%,43%,3%,5%,35%,9%,76.71,Financials
+NETAPP INC,NTAP,,94%,99%,89%,57%,25%,92%,30.33,Information Technology
+PAYCHEX INC,PAYX,,94%,67%,14%,9%,85%,80%,30.96,Information Technology
+AGILENT TECH INC,A,,93%,97%,80%,79%,92%,90%,28.43,Information Technology
+PPG INDS INC,PPG,,44%,81%,79%,83%,41%,8%,59.01,Materials
+VORNADO RLTY TST,VNO,,90%,64%,98%,97%,16%,25%,62,Financials
+CONAGRA FOODS,CAG,,37%,68%,36%,63%,67%,32%,22.15,Consumer Staples
+BED BATH &BEYOND,BBBY,,55%,69%,71%,55%,52%,68%,36.66,Consumer Discretionary
+MCGRAW-HILL COS,MHP,,20%,24%,15%,17%,77%,32%,30.3,Consumer Discretionary
+AMERIPRISE FINAN,AMP,,7%,62%,92%,72%,6%,64%,37.08,Financials
+HARTFORD FINL SV,HIG,,26%,71%,97%,96%,6%,11%,23.8,Financials
+INTUIT INC,INTU,,53%,32%,24%,12%,79%,88%,29.07,Information Technology
+ITT CORP,ITT,,19%,51%,55%,38%,59%,40%,50.74,Industrials
+CH ROBINSON,CHRW,,85%,27%,39%,17%,92%,89%,55.2,Consumer Discretionary
+SAFEWAY INC,SWY,,5%,26%,16%,18%,75%,3%,22.33,Consumer Staples
+INVESCO LTD,IVZ,,66%,73%,74%,66%,28%,64%,21.85,Financials
+CUMMINS INC,CMI,,66%,71%,84%,79%,59%,35%,44.5,Industrials
+FOREST LABS INC,FRX,,9%,87%,19%,5%,74%,17%,30.37,Health Care
+XCEL ENERGY INC,XEL,,37%,59%,11%,32%,17%,19%,20.11,Utilities
+CAMERON INTERNAT,CAM,,57%,45%,65%,53%,53%,9%,37.17,Energy
+L-3 COMM HLDGS,LLL,,6%,34%,36%,59%,72%,58%,78.17,Industrials
+QUEST DIAGNOSTIC,DGX,,42%,54%,46%,53%,87%,74%,57.91,Health Care
+BOSTON PROPERTIE,BXP,,89%,61%,49%,70%,31%,18%,63.45,Financials
+VALERO ENERGY,VLO,,44%,1%,5%,27%,42%,1%,15.95,Energy
+CBS CORP-B,CBS,,47%,95%,78%,88%,16%,5%,12.65,Consumer Discretionary
+REPUBLIC SVCS,RSG,,58%,82%,29%,60%,14%,79%,27.84,Industrials
+CIGNA CORP,CI,,10%,98%,33%,40%,68%,44%,31.82,Health Care
+HCP INC,HCP,,76%,77%,94%,94%,19%,11%,29.56,Financials
+LIFE TECHNOLOGIE,LIFE,,74%,88%,73%,80%,2%,47%,49.68,Health Care
+PRICELINE.COM,PCLN,,97%,99%,86%,63%,54%,97%,207.09,Consumer Discretionary
+CA INC,CA,,24%,48%,28%,14%,24%,43%,21.67,Information Technology
+PARKER HANNIFIN,PH,,55%,57%,88%,90%,66%,47%,53.04,Industrials
+EQUITY RESIDENTI,EQR,,86%,53%,99%,98%,30%,7%,30.78,Financials
+REYNOLDS AMERICA,RAI,,19%,93%,66%,59%,65%,21%,50.6,Consumer Staples
+ANALOG DEVICES,ADI,,84%,82%,96%,73%,57%,52%,29,Information Technology
+SARA LEE CORP,SLE,,18%,83%,35%,63%,70%,23%,12,Consumer Staples
+AES CORP,AES,,36%,46%,44%,62%,80%,61%,12.67,Utilities
+WESTERN DIGITAL,WDC,,6%,94%,98%,77%,89%,32%,37.25,Information Technology
+ROCKWELL COLLINS,COL,,54%,87%,54%,35%,95%,93%,53.17,Industrials
+CONSOL ENERGY,CNX,,60%,32%,12%,7%,94%,55%,45,Energy
+CLOROX CO,CLX,,43%,51%,40%,57%,32%,45%,59.69,Consumer Staples
+PRINCIPAL FINL,PFG,,3%,31%,72%,78%,12%,48%,24.9,Financials
+COMPUTER SCIENCE,CSC,,4%,86%,40%,36%,34%,37%,54.2,Information Technology
+DISCOVER FINANCI,DFS,,74%,78%,100%,55%,25%,29%,15.1,Financials
+WEYERHAEUSER CO,WY,,97%,41%,13%,,32%,9%,37.64,Materials
+LABORATORY CP,LH,,38%,70%,38%,38%,88%,75%,72.95,Health Care
+CR BARD INC,BCR,,61%,25%,26%,12%,91%,82%,80.77,Health Care
+FLUOR CORP,FLR,,14%,6%,10%,7%,82%,99%,42.5,Industrials
+FIFTH THIRD BANC,FITB,,85%,74%,0%,0%,4%,8%,9.65,Financials
+INTERCONTINENTAL,ICE,,87%,20%,66%,49%,56%,88%,104.5,Financials
+DOVER CORP,DOV,,49%,72%,71%,69%,53%,85%,40.29,Industrials
+HOSPIRA INC,HSP,,54%,94%,74%,69%,38%,76%,46.7,Health Care
+GOODRICH CORP,GR,,25%,76%,16%,13%,52%,57%,59.52,Industrials
+RANGE RESOURCES,RRC,,99%,15%,51%,79%,30%,13%,46.81,Energy
+AMERISOURCEBERGE,ABC,,17%,95%,74%,58%,71%,73%,24.55,Health Care
+MACY'S INC,M,,7%,58%,90%,93%,27%,52%,16.93,Consumer Discretionary
+AMPHENOL CORP-A,APH,,79%,67%,71%,60%,97%,95%,41.15,Information Technology
+FISERV INC,FISV,,37%,30%,15%,43%,88%,83%,46.31,Information Technology
+LINCOLN NATL CRP,LNC,,1%,42%,56%,57%,10%,46%,22.73,Financials
+FIDELITY NATIONA,FIS,,41%,29%,75%,67%,67%,83%,22.45,Information Technology
+BMC SOFTWARE INC,BMC,,53%,29%,51%,40%,78%,85%,37.6,Information Technology
+NVIDIA CORP,NVDA,,87%,33%,94%,97%,34%,85%,12.57,Information Technology
+J.C. PENNEY CO,JCP,,30%,24%,74%,84%,35%,80%,29.59,Consumer Discretionary
+MATTEL INC,MAT,,47%,25%,56%,54%,62%,35%,19.41,Consumer Discretionary
+HUMANA INC,HUM,,1%,69%,39%,8%,39%,56%,40.8,Health Care
+MOLSON COORS-B,TAP,,55%,18%,80%,85%,21%,72%,44.31,Consumer Staples
+SALESFORCE.COM,CRM,,100%,88%,25%,3%,15%,100%,61.43,Information Technology
+APOLLO GROUP-A,APOL,,23%,3%,53%,20%,98%,93%,54.99,Consumer Discretionary
+CITRIX SYSTEMS,CTXS,,95%,38%,38%,15%,15%,64%,37.64,Information Technology
+DIAMOND OFFSHORE,DO,,26%,58%,43%,30%,79%,99%,98.3,Energy
+JM SMUCKER CO,SJM,,34%,97%,64%,73%,4%,30%,57.66,Consumer Staples
+QUESTAR CORP,STR,,50%,38%,69%,69%,60%,17%,39.01,Utilities
+EXPEDITORS INTL,EXPD,,84%,11%,47%,4%,76%,95%,31.9,Consumer Discretionary
+H&R BLOCK INC,HRB,,27%,52%,12%,10%,18%,61%,20.07,Consumer Discretionary
+REGIONS FINANCIA,RF,,83%,38%,,,1%,4%,5.52,Financials
+XEROX CORP,XRX,,9%,26%,68%,81%,40%,3%,7.58,Information Technology
+DR PEPPER SNAPPL,DPS,,29%,41%,24%,39%,25%,40%,26.37,Consumer Staples
+CAMPBELL SOUP CO,CPB,,54%,85%,66%,76%,99%,32%,34.81,Consumer Staples
+EL PASO CORP,EP,,69%,14%,35%,82%,20%,32%,9.48,Energy
+HARLEY-DAVIDSON,HOG,,89%,100%,27%,25%,70%,57%,27.96,Consumer Discretionary
+FMC TECHNOLOGIES,FTI,,77%,66%,77%,67%,96%,72%,53.08,Energy
+SMITH INTL INC,SII,,38%,7%,9%,10%,95%,79%,26.1,Energy
+SOUTHWEST AIR,LUV,,70%,56%,91%,86%,30%,82%,8.81,Consumer Discretionary
+DTE ENERGY CO,DTE,,11%,90%,59%,91%,22%,9%,39.7,Utilities
+NYSE EURONEXT,NYX,,7%,8%,56%,64%,47%,67%,25.02,Financials
+VENTAS INC,VTR,,85%,86%,58%,76%,56%,7%,40.88,Financials
+SIGMA-ALDRICH,SIAL,,79%,40%,65%,44%,90%,45%,52.76,Materials
+MARRIOTT INTL-A,MAR,,88%,33%,26%,30%,53%,18%,24.98,Consumer Discretionary
+VF CORP,VFC,,34%,50%,40%,42%,44%,58%,71.23,Consumer Discretionary
+ENSCO INTL,ESV,,11%,34%,22%,8%,58%,17%,43.8,Energy
+UNUM GROUP,UNM,,1%,25%,17%,12%,37%,22%,18.84,Financials
+CONSTELLAT ENER,CEG,,5%,58%,84%,85%,7%,72%,31.82,Utilities
+COCA-COLA ENTER,CCE,,16%,55%,48%,74%,58%,32%,19.79,Consumer Staples
+SUN MICROSYSTEMS,JAVA,,73%,30%,8%,1%,7%,34%,8.5,Information Technology
+MCAFEE INC,MFE,,70%,18%,42%,16%,20%,87%,39.76,Information Technology
+XL CAPITAL LTD-A,XL,,0%,97%,93%,93%,6%,1%,17.57,Financials
+XILINX INC,XLNX,,76%,32%,95%,71%,38%,80%,22.33,Information Technology
+MICRON TECH,MU,,50%,60%,99%,92%,2%,56%,7.16,Information Technology
+ROCKWELL AUTOMAT,ROK,,75%,81%,89%,77%,94%,48%,42.69,Industrials
+PROLOGIS,PLD,,46%,57%,7%,59%,4%,41%,12.65,Financials
+VULCAN MATERIALS,VMC,,86%,14%,2%,20%,19%,100%,48.31,Materials
+DAVITA INC,DVA,,41%,85%,62%,68%,95%,73%,58.98,Health Care
+ALTERA CORP,ALTR,,96%,63%,91%,65%,93%,92%,20.54,Information Technology
+HUDSON CITY BNCP,HCBK,,8%,12%,48%,43%,25%,98%,12.9,Financials
+WW GRAINGER INC,GWW,,49%,61%,70%,46%,81%,61%,96.34,Industrials
+US STEEL CORP,X,,75%,44%,52%,99%,47%,28%,41.7,Materials
+HOST HOTELS & RE,HST,,89%,24%,,94%,9%,2%,9.81,Financials
+LINEAR TECH CORP,LLTC,,87%,40%,78%,61%,41%,80%,26.39,Information Technology
+AMEREN CORP,AEE,,24%,14%,12%,24%,11%,9%,25.49,Utilities
+STARWOOD HOTELS,HOT,,88%,62%,57%,72%,32%,32%,31.09,Consumer Discretionary
+SHERWIN-WILLIAMS,SHW,,40%,47%,28%,39%,97%,46%,60.53,Consumer Discretionary
+NABORS INDS LTD,NBR,,32%,36%,8%,15%,48%,45%,20.09,Energy
+HERSHEY CO/THE,HSY,,54%,9%,44%,60%,86%,26%,35.4,Consumer Staples
+VARIAN MEDICAL S,VAR,,73%,92%,21%,5%,88%,83%,46.22,Health Care
+FORTUNE BRANDS,FO,,44%,23%,31%,65%,22%,56%,38.08,Consumer Discretionary
+INTL GAME TECH,IGT,,82%,30%,21%,28%,81%,93%,19.13,Consumer Discretionary
+HARRIS CORP,HRS,,15%,88%,86%,82%,72%,62%,43.73,Information Technology
+GENUINE PARTS CO,GPC,,22%,22%,18%,11%,71%,36%,35.67,Consumer Discretionary
+FIRST SOLAR INC,FSLR,,91%,1%,22%,14%,51%,99%,117.12,Industrials
+FLOWSERVE CORP,FLS,,41%,77%,31%,24%,66%,17%,99.3,Industrials
+PEOPLE'S UNITED,PBCT,,75%,10%,13%,9%,16%,43%,16.15,Financials
+WATERS CORP,WAT,,82%,86%,65%,38%,99%,91%,58.69,Health Care
+AVALONBAY COMMUN,AVB,,88%,31%,8%,36%,22%,20%,68.77,Financials
+QWEST COMMUNICAT,Q,,4%,6%,41%,63%,22%,2%,3.8,Telecommunication Services
+NORDSTROM INC,JWN,,52%,91%,92%,89%,68%,77%,33.88,Consumer Discretionary
+ESTEE LAUDER,EL,,63%,91%,93%,84%,73%,87%,46.8,Consumer Staples
+ELECTRONIC ARTS,ERTS,,58%,2%,4%,2%,10%,94%,17.13,Information Technology
+MYLAN INC,MYL,,54%,94%,72%,88%,21%,94%,17.87,Health Care
+TEXTRON INC,TXT,,82%,98%,17%,31%,27%,64%,19.88,Industrials
+PLUM CREEK TIMBR,PCL,,91%,15%,76%,87%,77%,52%,33.59,Financials
+BROWN-FORMAN -B,BF/B,,75%,42%,47%,35%,86%,17%,49.84,Consumer Staples
+WHIRLPOOL CORP,WHR,,21%,91%,85%,80%,43%,17%,74.15,Consumer Discretionary
+BJ SERVICES CO,BJS,,67%,39%,71%,47%,80%,17%,18.41,Energy
+KLA-TENCOR CORP,KLAC,,91%,35%,99%,99%,17%,52%,31.55,Information Technology
+PEPSI BOTTLING,PBG,,39%,74%,20%,41%,40%,27%,37.67,Consumer Staples
+OWENS-ILLINOIS,OI,,16%,27%,32%,20%,48%,5%,31.53,Materials
+AFFIL COMPUTER-A,ACS,,19%,82%,21%,29%,45%,67%,54.8,Information Technology
+AUTODESK INC,ADSK,,95%,25%,56%,37%,62%,66%,23.39,Information Technology
+M&T BANK CORP,MTB,,48%,59%,91%,92%,18%,12%,64.85,Financials
+EXPEDIA INC,EXPE,,60%,83%,81%,67%,15%,85%,25.27,Consumer Discretionary
+EQT CORP,EQT,,97%,22%,48%,24%,84%,90%,40.37,Utilities
+O'REILLY AUTOMOT,ORLY,,61%,30%,67%,65%,27%,96%,38.65,Consumer Discretionary
+TIFFANY & CO,TIF,,77%,99%,88%,77%,36%,48%,42.36,Consumer Discretionary
+GENWORTH FINANCI,GNW,,36%,71%,4%,3%,7%,52%,10.64,Financials
+WISCONSIN ENERGY,WEC,,72%,44%,14%,43%,46%,36%,44.97,Utilities
+SLM CORP,SLM,,10%,77%,90%,94%,49%,82%,10.96,Financials
+HEALTH CARE REIT,HCN,,72%,59%,5%,26%,5%,8%,42.98,Financials
+RED HAT INC,RHT,,98%,79%,72%,50%,63%,98%,26.9,Information Technology
+KEYCORP,KEY,,84%,15%,,,3%,18%,5.6,Financials
+TERADATA CORP,TDC,,71%,77%,75%,61%,98%,82%,28.9,Information Technology
+CENTERPOINT ENER,CNP,,24%,46%,15%,46%,8%,25%,12.93,Utilities
+MASCO CORP,MAS,,63%,64%,79%,96%,42%,65%,13.35,Industrials
+DENTSPLY INTL,XRAY,,73%,32%,37%,13%,61%,55%,33.03,Health Care
+FASTENAL CO,FAST,,93%,24%,29%,8%,79%,88%,36.64,Industrials
+PITNEY BOWES INC,PBI,,17%,12%,36%,61%,45%,2%,23.18,Industrials
+PIONEER NATURAL,PXD,,86%,78%,20%,41%,79%,11%,40.92,Energy
+MICROCHIP TECH,MCHP,,92%,49%,90%,55%,44%,56%,25.82,Information Technology
+CAREFUSION CORP,CFN,,52%,50%,81%,93%,23%,87%,25.5,Health Care
+BALL CORP,BLL,,30%,62%,42%,33%,92%,28%,49.54,Materials
+MCCORMICK-N/V,MKC,,58%,56%,25%,41%,63%,40%,35.76,Consumer Staples
+LEGG MASON INC,LM,,57%,63%,92%,83%,5%,23%,28.1,Financials
+STERICYCLE INC,SRCL,,96%,26%,45%,56%,75%,93%,53.66,Industrials
+MEADWESTVACO COR,MWV,,45%,98%,87%,94%,27%,52%,26.1,Materials
+AMERICAN INTERNA,AIG,,40%,10%,100%,99%,3%,72%,33.1,Financials
+SANDISK CORP,SNDK,,51%,41%,100%,100%,14%,90%,19.64,Information Technology
+KIMCO REALTY,KIM,,80%,8%,93%,95%,12%,5%,11.87,Financials
+LIMITED BRANDS,LTD,,24%,60%,84%,87%,85%,67%,16.85,Consumer Discretionary
+AUTOZONE INC,AZO,,18%,17%,34%,37%,100%,68%,148.12,Consumer Discretionary
+MOODY'S CORP,MCO,,22%,5%,73%,73%,91%,72%,23.07,Financials
+POLO RALPH LAURE,RL,,48%,80%,90%,70%,51%,79%,77,Consumer Discretionary
+WINDSTREAM CORP,WIN,,23%,71%,11%,23%,96%,7%,9.96,Telecommunication Services
+JACOBS ENGIN GRP,JEC,,8%,2%,2%,2%,36%,85%,35.12,Industrials
+WYNN RESORTS LTD,WYNN,,100%,84%,95%,97%,8%,22%,62.33,Consumer Discretionary
+IRON MOUNTAIN,IRM,,70%,6%,22%,36%,21%,95%,24.24,Industrials
+EASTMAN CHEMICAL,EMN,,28%,95%,59%,85%,70%,64%,59.14,Materials
+FLIR SYSTEMS,FLIR,,76%,46%,50%,27%,49%,91%,28.64,Information Technology
+AVERY DENNISON,AVY,,43%,80%,89%,91%,31%,25%,37.84,Industrials
+FAMILY DOLLAR ST,FDO,,17%,18%,40%,21%,73%,72%,31.08,Consumer Discretionary
+RR DONNELLEY & S,RRD,,6%,42%,67%,69%,34%,17%,20.68,Industrials
+VERISIGN INC,VRSN,,63%,13%,25%,14%,37%,86%,21.86,Information Technology
+DARDEN RESTAURAN,DRI,,15%,8%,8%,18%,65%,73%,30.38,Consumer Discretionary
+COMERICA INC,CMA,,86%,53%,,,41%,18%,27.67,Financials
+NORTHEAST UTILS,NU,,35%,38%,53%,38%,6%,25%,23.91,Utilities
+DUN & BRADSTREET,DNB,,39%,12%,48%,51%,98%,73%,78.32,Industrials
+LEUCADIA NATL,LUK,,92%,16%,,,9%,17%,21.44,Financials
+GAMESTOP CORP-A,GME,,6%,11%,46%,16%,40%,84%,25,Consumer Discretionary
+CINCINNATI FIN,CINF,,31%,19%,95%,95%,44%,17%,25.15,Financials
+AKAMAI TECH,AKAM,,64%,43%,61%,30%,20%,41%,23.49,Information Technology
+CEPHALON INC,CEPH,,20%,4%,44%,47%,3%,66%,55.09,Health Care
+CF INDUSTRIES HO,CF,,12%,29%,2%,4%,100%,8%,81.91,Materials
+NEWELL RUBBERMAI,NWL,,17%,66%,49%,71%,66%,34%,14.38,Consumer Discretionary
+FMC CORP,FMC,,42%,35%,10%,19%,82%,26%,55,Materials
+CABOT OIL & GAS,COG,,81%,33%,52%,48%,73%,0%,37.7,Energy
+QUANTA SERVICES,PWR,,48%,3%,68%,49%,4%,58%,18.8,Industrials
+NISOURCE INC,NI,,13%,89%,27%,73%,24%,6%,14.16,Utilities
+WATSON PHARM,WPI,,24%,65%,59%,51%,11%,62%,37,Health Care
+ADV MICRO DEVICE,AMD,,99%,90%,97%,100%,6%,75%,6.7,Information Technology
+STANLEY WORKS,SWK,,38%,83%,76%,85%,48%,40%,48.58,Industrials
+IMS HEALTH INC,RX,,32%,100%,56%,44%,0%,32%,21.3,Health Care
+SCANA CORP,SCG,,45%,37%,11%,42%,18%,11%,34.94,Utilities
+AIRGAS INC,ARG,,35%,31%,16%,30%,43%,50%,45.52,Materials
+PALL CORP,PLL,,59%,54%,67%,52%,52%,77%,31.55,Industrials
+ALLEGHENY ENERGY,AYE,,37%,2%,22%,32%,29%,25%,21.9,Utilities
+TYSON FOODS-A,TSN,,10%,21%,11%,22%,34%,35%,12.2,Consumer Staples
+MILLIPORE CORP,MIL,,61%,34%,34%,29%,35%,77%,67.04,Health Care
+CINTAS CORP,CTAS,,26%,47%,57%,56%,52%,61%,28.11,Industrials
+WHOLE FOODS MKT,WFMI,,38%,48%,22%,11%,39%,93%,25.94,Consumer Staples
+BLACK & DECKER,BDK,,63%,97%,84%,91%,85%,11%,60.24,Consumer Discretionary
+EQUIFAX INC,EFX,,32%,44%,39%,43%,89%,40%,28.85,Industrials
+HASBRO INC,HAS,,35%,51%,44%,62%,64%,52%,29.11,Consumer Discretionary
+ASSURANT INC,AIZ,,1%,59%,70%,75%,60%,52%,30.26,Financials
+SEALED AIR CORP,SEE,,21%,64%,69%,75%,43%,25%,21.99,Materials
+TORCHMARK CORP,TMK,,2%,34%,13%,8%,77%,32%,41.87,Financials
+LSI CORP,LSI,,81%,50%,96%,76%,9%,2%,5.31,Information Technology
+SCRIPPS NET-CL A,SNI,,78%,93%,72%,52%,15%,87%,40,Consumer Discretionary
+PINNACLE WEST,PNW,,40%,82%,26%,58%,28%,23%,34.71,Utilities
+SEARS HOLDINGS,SHLD,,30%,59%,23%,11%,73%,52%,70.33,Consumer Discretionary
+ABERCROMBIE & FI,ANF,,53%,81%,88%,73%,65%,81%,39.87,Consumer Discretionary
+PEPCO HOLDINGS,POM,,45%,37%,6%,27%,10%,25%,15.98,Utilities
+DENBURY RESOURCE,DNR,,93%,5%,26%,18%,50%,5%,13.44,Energy
+ROBERT HALF INTL,RHI,,78%,13%,65%,58%,95%,77%,22.04,Industrials
+COVENTRY HEALTH,CVH,,3%,66%,55%,52%,81%,19%,22.35,Health Care
+TOTAL SYS SERVS,TSS,,26%,75%,28%,14%,79%,52%,17.08,Information Technology
+CONSTELLATION-A,STZ,,34%,90%,38%,72%,11%,47%,16.98,Consumer Staples
+ALLEGHENY TECH,ATI,,80%,12%,3%,6%,72%,90%,33.5,Materials
+DEVRY INC,DV,,65%,35%,76%,54%,54%,97%,54.28,Consumer Discretionary
+WYNDHAM WORLDWID,WYN,,20%,93%,74%,83%,14%,17%,18.25,Consumer Discretionary
+NATL SEMICONDUCT,NSM,,79%,23%,96%,89%,54%,72%,14.03,Information Technology
+GOODYEAR TIRE,GT,,66%,31%,17%,47%,21%,72%,13.33,Consumer Discretionary
+MASSEY ENERGY CO,MEE,,64%,86%,15%,12%,24%,72%,37,Energy
+CMS ENERGY CORP,CMS,,31%,55%,6%,32%,17%,23%,14.03,Utilities
+INTL FLVR & FRAG,IFF,,57%,75%,70%,78%,74%,21%,40.13,Materials
+PACTIV CORP,PTV,,14%,28%,35%,45%,50%,64%,23.58,Materials
+BEMIS CO,BMS,,22%,63%,68%,45%,19%,43%,28.65,Materials
+INTERPUBLIC GRP,IPG,,25%,39%,9%,6%,7%,61%,6.25,Consumer Discretionary
+TECO ENERGY INC,TE,,46%,76%,28%,66%,26%,92%,14.57,Utilities
+LEGGETT & PLATT,LEG,,50%,68%,62%,84%,57%,90%,19.41,Consumer Discretionary
+SUPERVALU INC,SVU,,2%,4%,7%,23%,29%,0%,14.51,Consumer Staples
+SUNOCO INC,SUN,,39%,2%,6%,12%,89%,1%,25.25,Energy
+KING PHARMACEUT,KG,,11%,85%,26%,7%,17%,30%,11.85,Health Care
+PULTE HOMES INC,PHM,,46%,9%,2%,,1%,72%,9.04,Consumer Discretionary
+FIRST HORIZON NA,FHN,,93%,37%,,,29%,27%,13.1,Financials
+DR HORTON INC,DHI,,40%,23%,57%,1%,23%,33%,10.19,Consumer Discretionary
+INTEGRYS ENERGY,TEG,,21%,56%,23%,37%,48%,17%,38,Utilities
+DEAN FOODS CO,DF,,8%,3%,16%,44%,35%,78%,15.93,Consumer Staples
+ROWAN COMPANIES,RDC,,15%,45%,23%,8%,38%,91%,24.5,Energy
+MARSHALL &ILSLEY,MI,,83%,1%,,,3%,34%,5.4,Financials
+NASDAQ OMX GROUP,NDAQ,,3%,3%,10%,22%,49%,88%,19.07,Financials
+MEMC ELEC MATER,WFR,,69%,1%,5%,1%,99%,80%,11.95,Information Technology
+CB RICHARD ELL-A,CBG,,98%,60%,1%,23%,1%,80%,10.62,Financials
+HUNTINGTON BANC,HBAN,,85%,5%,1%,1%,5%,4%,3.62,Financials
+HORMEL FOODS CRP,HRL,,22%,37%,29%,42%,64%,61%,37.51,Consumer Staples
+MOLEX INC,MOLX,,52%,40%,98%,79%,43%,75%,18.78,Information Technology
+WASH POST-B,WPO,,34%,22%,,6%,33%,17%,414,Consumer Discretionary
+HARMAN INTL,HAR,,93%,84%,97%,88%,7%,72%,36.2,Consumer Discretionary
+JABIL CIRCUIT,JBL,,13%,79%,97%,87%,14%,96%,12.93,Information Technology
+GANNETT CO,GCI,,4%,61%,60%,90%,4%,7%,10.03,Consumer Discretionary
+FRONTIER COMMUNI,FTR,,28%,22%,55%,80%,62%,2%,7.8,Telecommunication Services
+PATTERSON COS,PDCO,,51%,51%,45%,24%,84%,86%,25.66,Health Care
+JANUS CAPITAL GR,JNS,,79%,41%,82%,86%,5%,43%,12.74,Financials
+RADIOSHACK CORP,RSH,,13%,73%,69%,42%,83%,37%,18.17,Consumer Discretionary
+E*TRADE FINANCIA,ETFC,,85%,16%,1%,46%,1%,1%,1.59,Financials
+RYDER SYSTEM INC,R,,18%,66%,61%,74%,35%,3%,40.1,Consumer Discretionary
+FEDERATED INV-B,FII,,39%,27%,61%,50%,75%,36%,25.46,Financials
+TELLABS INC,TLAB,,23%,11%,43%,27%,44%,32%,5.58,Information Technology
+PERKINELMER INC,PKI,,44%,40%,64%,62%,51%,49%,18.79,Health Care
+TENET HEALTHCARE,THC,,59%,55%,85%,95%,11%,35%,4.89,Health Care
+QLOGIC CORP,QLGC,,79%,72%,89%,64%,88%,61%,18.03,Information Technology
+AK STEEL HLDG,AKS,,90%,55%,78%,89%,47%,52%,19,Materials
+SNAP-ON INC,SNA,,23%,35%,10%,9%,36%,90%,36.14,Industrials
+NOVELLUS SYS,NVLS,,86%,39%,94%,93%,40%,47%,20.49,Information Technology
+LENNAR CORP-CL A,LEN,,64%,44%,95%,,2%,72%,12.58,Consumer Discretionary
+LEXMARK INTL-A,LXK,,15%,61%,90%,74%,96%,6%,24.96,Information Technology
+BIG LOTS INC,BIG,,7%,19%,37%,19%,29%,86%,23.51,Consumer Discretionary
+MONSTER WORLDWID,MWW,,94%,41%,7%,2%,26%,96%,14.85,Industrials
+TESORO CORP,TSO,,18%,4%,46%,84%,61%,17%,12.7,Energy
+NICOR INC,GAS,,14%,71%,33%,67%,51%,10%,39.09,Utilities
+ZIONS BANCORP,ZION,,83%,4%,,,9%,41%,12.7,Financials
+OFFICE DEPOT INC,ODP,,62%,61%,21%,,31%,63%,6.09,Consumer Discretionary
+COMPUWARE CORP,CPWR,,14%,7%,23%,26%,69%,17%,7.08,Information Technology
+JDS UNIPHASE,JDSU,,81%,74%,93%,74%,8%,87%,7.33,Information Technology
+AUTONATION INC,AN,,30%,23%,57%,90%,31%,72%,17.08,Consumer Discretionary
+METROPCS COMMUNI,PCS,,28%,0%,63%,90%,25%,99%,6.16,Telecommunication Services
+TERADYNE INC,TER,,83%,42%,99%,99%,9%,92%,8.58,Information Technology
+APARTMENT INVEST,AIV,,99%,52%,,98%,60%,23%,12.84,Financials
+CONVERGYS CORP,CVG,,9%,54%,69%,78%,63%,43%,11.03,Information Technology
+NOVELL INC,NOVL,,17%,7%,29%,9%,37%,65%,3.91,Information Technology
+CIENA CORP,CIEN,,90%,20%,67%,97%,3%,67%,12.05,Information Technology
+EASTMAN KODAK,EK,,80%,45%,59%,,41%,52%,4,Consumer Discretionary
+NEW YORK TIMES-A,NYT,,35%,46%,57%,92%,23%,8%,8.4,Consumer Discretionary
+KB HOME,KBH,,74%,5%,38%,,39%,72%,13.47,Consumer Discretionary
+MEREDITH CORP,MDP,,22%,19%,20%,33%,41%,79%,27.2,Consumer Discretionary
+DYNEGY INC-A,DYN,,72%,6%,1%,96%,18%,17%,1.79,Utilities
+TITANIUM METALS,TIE,,74%,26%,5%,3%,91%,75%,9.76,Materials
+MBIA INC,MBI,,8%,1%,98%,98%,49%,17%,3.35,Financials

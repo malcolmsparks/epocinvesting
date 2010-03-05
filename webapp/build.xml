@@ -15,6 +15,17 @@
 
     <target name="init"/>
 
+    <target name="copydata">
+        <copy todir="war">
+            <fileset dir=".">
+                <include name="data/"/>
+            </fileset>
+        </copy>
+        <copy todir="war/WEB-INF">
+            <fileset dir="web/"/>
+        </copy>
+    </target>
+
     <target name="copyjars"
             description="Copies the App Engine JARs to the WAR.">
         <copy
@@ -66,17 +77,15 @@
                 <path location="${user.home}/git/compojure/deps/jetty-util-6.1.15.jar"/>
             </classpath>
             <sysproperty key="clojure.compile.path" value="war/WEB-INF/classes"/>
-            <arg value="myapp.MyServlet"/>
-            <arg value="myapp.Calculator"/>
+            <arg value="epoc.Main"/>
         </java>
     </target>
 
-    <target name="compile" depends="compile.java, compile.clojure"/>
+    <target name="compile" depends="copydata, compile.java, compile.clojure"/>
 
     <target name="clean">
-        <delete>
-            <fileset dir="war/WEB-INF/classes"/>
-            <fileset dir="war/WEB-INF/lib"/>
+        <delete includeEmptyDirs="true" quiet="true">
+            <fileset dir="war"/>
         </delete>
     </target>
 
