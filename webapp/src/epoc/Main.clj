@@ -1,10 +1,31 @@
 (ns epoc.Main
-  (:use compojure)
+  (:use
+   compojure
+   [clojure.contrib.fcase :only (case)]
+   clojure.contrib.monads
+   )
   (:gen-class
    :extends javax.servlet.http.HttpServlet))
 
+; First non-null monad
+(defmonad first-non-null-m
+   [m-zero   nil
+    m-result identity
+    m-bind   (fn m-bind-maybe [mv f]
+               (if (not (nil? mv)) mv (f mv)))
+    ])
+
+(with-monad first-non-null-m
+  (defn get-reader []
+    (domonad
+     [
+      local (let [f (java.io.File. "data/20091129.csv")] (if (.exists f) (java.io.FileReader. f) nil))
+      local (let [f (java.io.File. "/home/malcolm/git/epoc/webapp/data/20091129.csv")] (if (.exists f) (java.io.FileReader. f) nil))
+      ]
+     (throw (Exception. "No file!")))))
+
 (defn get-data-as-reader []
-  (java.io.BufferedReader. (java.io.FileReader. (java.io.File. "data/20091129.csv"))))
+  (java.io.BufferedReader. (get-reader)))
 
 (def factors [:value :momentum :revisions :risk :quality :growth :price])
 
@@ -70,7 +91,9 @@
     [:body [:h1#title "ACME Investing"] [:h2 title] body (footer)]]))
 
 (defn menu []
-  [:p "Best by... " (interpose " | " (map (fn [n] [:a {:href (str "top-" (.getName n) ".html")} (titlecase n)]) factors))])
+  [:p "Best by... " (interpose " | " (map (fn [n] [:a {:href (str "top-" (.getName n) ".html")} (titlecase n)])
+                                          (filter #(not (= :price %)) factors)
+))])
 
 (defn index [request]
   (let [data (data)]
@@ -136,12 +159,16 @@ div#footer {
   {:status 200
    :headers {}
    :body
-   (let [by (-> request :route-params :factor keyword)]
+   (let [by (-> request :route-params :factor keyword)
+         order (case by :value s< :momentum s> :revisions s> :risk s< :quality s> :growth s> :price s> )]
      (template (str "Best by " (name by))
        [:p [:a {:href "index.html"} "Home"]]
        (menu)
-       (make-table (take 10 (sort-by by s> (data))) by)
-))})
+       (make-table
+        (take 10
+              (sort-by by order
+                       (filter #(not (= (by %) "")) (data))))
+                   by)))})
 
 (defroutes webservice
   (GET "/" welcome)
@@ -166,5 +193,5 @@ div#footer {
 
 (defservice webservice)
 
-;;(run-server {:port 9}
+;;(run-server {:port 8888}
 ;;            "/*" (servlet webservice))
